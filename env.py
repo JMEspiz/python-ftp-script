@@ -8,5 +8,5 @@ PASSD = "YOUR-FTP-PASSWORD"
 PATH = "PATH/TO/THE/SERVER" #Where you're going to upload your file ex: /public_ftp/incomming
 FILE = "PATH/TO/THE/FILE" #Absolute path to the fileyou want to upload.
 LOG = "ftp_client.log" #log file
-FILENAME = "YOUR-FILENAME-SERVER" # File's name on the server
+FILENAME = "YOUR-FILENAME-SERVER" # File's name on the server. ex: upload_file.txt
 REMOVE = True #if you want to erase the file in local after FTP Conection
